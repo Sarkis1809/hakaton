@@ -296,7 +296,7 @@
   margin: 0 auto;
   background-color: #111517;
   padding-bottom: 318px;
-  background-image: url("./img/bg-mob.png");
+  background-image: url("../img/bg-mob.png");
   background-repeat: no-repeat;
   background-position: right 1370px;
 }
@@ -526,7 +526,7 @@
   display: block;
   width: 16px;
   height: 16px;
-  background-image: url("./img/check.svg");
+  background-image: url("../img/check.svg");
   background-repeat: no-repeat;
   background-size: 120%;
   position: absolute;
@@ -673,7 +673,7 @@
   display: contents;
 }
 .wrapper__list-item:nth-of-type(1)::before {
-  content: url(./img/line-mobile.png);
+  content: url(../img/line-mobile.png);
   position: absolute;
   top: 45px;
   left: 5px;
@@ -704,7 +704,7 @@
 }
 .reviews__content-icons::before {
   content: "";
-  background-image: url(./img/slider_icon.png);
+  background-image: url(../img/slider_icon.png);
   width: 80px;
   height: 80px;
   border-radius: 40px;
@@ -832,7 +832,7 @@
     content: none;
   }
   .wrapper__list-item::before {
-    content: url(./img/line.png);
+    content: url(../img/line.png);
     position: absolute;
     top: -47px;
     left: 6px;
@@ -841,7 +841,7 @@
     margin-right: 23px;
   }
   .section-2 {
-    background-image: url(./img/fire-tablet.png);
+    background-image: url(../img/fire-tablet.png);
     background-repeat: no-repeat;
     margin-bottom: 300px;
   }
@@ -904,7 +904,7 @@
 
   .our-program {
     width: 768px;
-    background-image: url("./img/bg-tablet.png");
+    background-image: url("../img/bg-tablet.png");
     background-position: right 800px;
     padding-bottom: 270px;
   }
@@ -1099,7 +1099,7 @@
   }
   .sliders::before {
     content: "";
-    background-image: url(./img/left-arrow-tablet.png);
+    background-image: url(../img/left-arrow-tablet.png);
     height: 14px;
     width: 25px;
     background-repeat: no-repeat;
@@ -1110,7 +1110,7 @@
   }
   .sliders::after {
     content: "";
-    background-image: url(./img/right-arrow-tablet.png);
+    background-image: url(../img/right-arrow-tablet.png);
     height: 14px;
     width: 25px;
     background-repeat: no-repeat;
@@ -1201,7 +1201,7 @@
 
   .our-program {
     width: 1280px;
-    background-image: url("./img/bg-desktop-1280px.png");
+    background-image: url("../img/bg-desktop-1280px.png");
     background-position: left 490px;
     padding-bottom: 416px;
   }
@@ -1382,7 +1382,7 @@
   }
 
   .section-2 {
-    background-image: url(./img/fire-desktop.png);
+    background-image: url(../img/fire-desktop.png);
     background-repeat: no-repeat;
     margin-bottom: 200px;
   }
@@ -1457,7 +1457,7 @@
 
   .our-program {
     width: 1280px;
-    background-image: url("./img/bg-desktop-1280px.png");
+    background-image: url("../img/bg-desktop-1280px.png");
     background-position: left 490px;
     padding-bottom: 416px;
   }
@@ -1654,7 +1654,7 @@
   }
   .reviews__content-icons::before {
     content: "";
-    background-image: url(./img/slider_icon-desctop.png);
+    background-image: url(../img/slider_icon-desctop.png);
     width: 145px;
     height: 145px;
     border-radius: 75px;
